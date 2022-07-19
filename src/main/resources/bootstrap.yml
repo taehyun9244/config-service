@@ -1,0 +1,6 @@
+encrypt:
+#  key: asdfqwerzxcvtyuighjkbnm1234567889
+  key-store:
+    location: file:///users/taehyunnam/Documents/spring_cloud/keystore/apiEncryption.jks
+    password: test1234
+    alias: apiEncryptionKey
